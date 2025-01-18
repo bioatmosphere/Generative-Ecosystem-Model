@@ -1,1 +1,1 @@
-# Generative-Ecosystem
+# GEM: Generative Ecosystem Model
